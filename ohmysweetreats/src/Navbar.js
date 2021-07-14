@@ -13,7 +13,7 @@ class Navbar extends Component {
             <div>
              <nav className="nav-extended">
                 <div className="nav-wrapper">
-                <a href="#" className="brand-logo" >OhMySweeTreats</a>
+                <a href="#" className="brand-logo"><h1>OhMySweeTreats</h1></a>
                 <a href="#" data-target="mobile-demo" className="sidenav-trigger"><i className="material-icons">menu</i></a>
                 <ul id="nav-mobile" className="right hide-on-med-and-down">
                     <li><a href="#">Home</a></li>
