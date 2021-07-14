@@ -23,6 +23,8 @@ class Home extends Component {
                     </div>
                     </Row>
                 </Container>
+
+                
             </div>
         )
     }
