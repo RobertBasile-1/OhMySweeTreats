@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/OhMySweeTreats/static/css/main.0d3b7c43.chunk.css",
-    "main.js": "/OhMySweeTreats/static/js/main.a345cab0.chunk.js",
-    "main.js.map": "/OhMySweeTreats/static/js/main.a345cab0.chunk.js.map",
+    "main.js": "/OhMySweeTreats/static/js/main.1a63371b.chunk.js",
+    "main.js.map": "/OhMySweeTreats/static/js/main.1a63371b.chunk.js.map",
     "runtime-main.js": "/OhMySweeTreats/static/js/runtime-main.d9229815.js",
     "runtime-main.js.map": "/OhMySweeTreats/static/js/runtime-main.d9229815.js.map",
     "static/js/2.3505a783.chunk.js": "/OhMySweeTreats/static/js/2.3505a783.chunk.js",
@@ -10,13 +10,12 @@
     "index.html": "/OhMySweeTreats/index.html",
     "static/css/main.0d3b7c43.chunk.css.map": "/OhMySweeTreats/static/css/main.0d3b7c43.chunk.css.map",
     "static/js/2.3505a783.chunk.js.LICENSE.txt": "/OhMySweeTreats/static/js/2.3505a783.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/OhMySweeTreats/static/media/logo.6ce24c58.svg",
     "static/media/treats.efe6a1b9.png": "/OhMySweeTreats/static/media/treats.efe6a1b9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d9229815.js",
     "static/js/2.3505a783.chunk.js",
     "static/css/main.0d3b7c43.chunk.css",
-    "static/js/main.a345cab0.chunk.js"
+    "static/js/main.1a63371b.chunk.js"
   ]
 }
