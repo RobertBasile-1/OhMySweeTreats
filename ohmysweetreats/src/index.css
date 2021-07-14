@@ -17,15 +17,16 @@ code {
    
 }
 
-#logo{
+/* #logo{
   margin-bottom: 0px;
   padding-top: 20px;
   border-top-width: 20px;
   margin-right: 10px;
-}
+} */
 
 nav.nav-extended .nav-wrapper{
   height: 120px;
+  margin-bottom: 5%;
 }
 
 .right.hide-on-med-and-down a {
@@ -66,12 +67,31 @@ nav.nav-extended .nav-wrapper{
 #learn-MoreBtn:hover {
   background-color: #F5BCBB;
 }
-
-.container{
+/* 
+.smt{
   display: flex;
   left: 50%;
   top:50%;
   transform: translate(-50%,-50%);
   position: absolute;
 }
- 
+  */
+  #desc{  
+    
+      width: 65%;
+      max-width: 65%;
+      text-align: left;
+      font-size: 22px;
+      align-items: left;
+      background-color: rgb(253, 253, 253);
+  }
+#smt{
+  display: flex;
+  width: 80%;
+  max-width: 80%;
+}
+
+#imgTreats{
+    width:  15%;
+    max-width: 15%;
+}

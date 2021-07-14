@@ -1,13 +1,15 @@
  
 import "./App.css";
-import Navbar from "./Navbar";
+import Navigation from "./Navigation";
 import Home from "./Home";
+import Variation from "./Variation";
 
 function App() {
   return (
     <div>
-       <Navbar></Navbar>
+       <Navigation></Navigation>
        <Home></Home>
+       <Variation></Variation> 
     </div>
   );
 }
