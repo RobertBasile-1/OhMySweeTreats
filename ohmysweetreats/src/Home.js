@@ -10,7 +10,6 @@ class Home extends Component {
             <div>
 
                 <Container fluid="lg">
-                
                     <Row>
                     <div className="container">
                         <Col md={1}>
