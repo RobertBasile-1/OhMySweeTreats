@@ -40,6 +40,8 @@ nav.nav-extended .nav-wrapper{
 .brand-logo h1{
   font-size: 48px;
   font-family: Helvetica, sans-serif;
+  border-top: 3px solid white;
+  border-bottom: 3px solid white;
 }
 
  
