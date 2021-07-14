@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/OhMySweeTreats/static/css/main.a617e044.chunk.css",
-    "main.js": "/OhMySweeTreats/static/js/main.d2221895.chunk.js",
-    "main.js.map": "/OhMySweeTreats/static/js/main.d2221895.chunk.js.map",
-    "runtime-main.js": "/OhMySweeTreats/static/js/runtime-main.0d5001dc.js",
-    "runtime-main.js.map": "/OhMySweeTreats/static/js/runtime-main.0d5001dc.js.map",
-    "static/js/2.89eb36ac.chunk.js": "/OhMySweeTreats/static/js/2.89eb36ac.chunk.js",
-    "static/js/2.89eb36ac.chunk.js.map": "/OhMySweeTreats/static/js/2.89eb36ac.chunk.js.map",
-    "static/js/3.4a0832db.chunk.js": "/OhMySweeTreats/static/js/3.4a0832db.chunk.js",
-    "static/js/3.4a0832db.chunk.js.map": "/OhMySweeTreats/static/js/3.4a0832db.chunk.js.map",
+    "main.css": "/OhMySweeTreats/static/css/main.dd55e979.chunk.css",
+    "main.js": "/OhMySweeTreats/static/js/main.66077d1a.chunk.js",
+    "main.js.map": "/OhMySweeTreats/static/js/main.66077d1a.chunk.js.map",
+    "runtime-main.js": "/OhMySweeTreats/static/js/runtime-main.04ba86a6.js",
+    "runtime-main.js.map": "/OhMySweeTreats/static/js/runtime-main.04ba86a6.js.map",
+    "static/js/2.1264575d.chunk.js": "/OhMySweeTreats/static/js/2.1264575d.chunk.js",
+    "static/js/2.1264575d.chunk.js.map": "/OhMySweeTreats/static/js/2.1264575d.chunk.js.map",
+    "static/js/3.1f920b92.chunk.js": "/OhMySweeTreats/static/js/3.1f920b92.chunk.js",
+    "static/js/3.1f920b92.chunk.js.map": "/OhMySweeTreats/static/js/3.1f920b92.chunk.js.map",
     "index.html": "/OhMySweeTreats/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/OhMySweeTreats/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.89eb36ac.chunk.js.LICENSE.txt": "/OhMySweeTreats/static/js/2.89eb36ac.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/OhMySweeTreats/static/media/logo.6ce24c58.svg"
+    "static/css/main.dd55e979.chunk.css.map": "/OhMySweeTreats/static/css/main.dd55e979.chunk.css.map",
+    "static/js/2.1264575d.chunk.js.LICENSE.txt": "/OhMySweeTreats/static/js/2.1264575d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/OhMySweeTreats/static/media/logo.6ce24c58.svg",
+    "static/media/treats.c63fa1da.png": "/OhMySweeTreats/static/media/treats.c63fa1da.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d5001dc.js",
-    "static/js/2.89eb36ac.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.d2221895.chunk.js"
+    "static/js/runtime-main.04ba86a6.js",
+    "static/js/2.1264575d.chunk.js",
+    "static/css/main.dd55e979.chunk.css",
+    "static/js/main.66077d1a.chunk.js"
   ]
 }
